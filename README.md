@@ -5,4 +5,3 @@ Raw Data → Python Cleaning → SQL Analysis
 # Tools Used
 Python
 SQL
-
